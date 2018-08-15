@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ConferenceSession.View.SessionDetailsPage"
+             xmlns:locall="clr-namespace:ConferenceSession;assembly=ConferenceSession"
+             xmlns:local="clr-namespace:ConferenceSession.View">
+
+    <ContentPage.BindingContext>
+        <local:SessionDetailsViewModel />
+    </ContentPage.BindingContext>
+
+    <StackLayout>
+        <Label Text="Welcome to Week 5 Lab"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+        <Label Text ="{Binding SessionTitle}" />
+        <Label Text ="{Binding SessionSpeaker}" />
+        <Label Text ="{Binding IsTechnical}" />
+        <Label Text ="{Binding SessionDescription}" />
+    </StackLayout>
+</ContentPage>

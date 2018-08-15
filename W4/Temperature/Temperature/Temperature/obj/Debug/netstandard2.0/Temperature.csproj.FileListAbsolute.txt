@@ -1,0 +1,12 @@
+F:\Dropbox\Dropbox\SIT313\W4\Temperature\Temperature\Temperature\bin\Debug\netstandard2.0\Temperature.deps.json
+F:\Dropbox\Dropbox\SIT313\W4\Temperature\Temperature\Temperature\bin\Debug\netstandard2.0\Temperature.dll
+F:\Dropbox\Dropbox\SIT313\W4\Temperature\Temperature\Temperature\bin\Debug\netstandard2.0\Temperature.pdb
+F:\Dropbox\Dropbox\SIT313\W4\Temperature\Temperature\Temperature\obj\Debug\netstandard2.0\Temperature.csprojAssemblyReference.cache
+F:\Dropbox\Dropbox\SIT313\W4\Temperature\Temperature\Temperature\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\Dropbox\Dropbox\SIT313\W4\Temperature\Temperature\Temperature\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\Dropbox\Dropbox\SIT313\W4\Temperature\Temperature\Temperature\obj\Debug\netstandard2.0\Temperature.csproj.CoreCompileInputs.cache
+F:\Dropbox\Dropbox\SIT313\W4\Temperature\Temperature\Temperature\obj\Debug\netstandard2.0\Temperature.AssemblyInfoInputs.cache
+F:\Dropbox\Dropbox\SIT313\W4\Temperature\Temperature\Temperature\obj\Debug\netstandard2.0\Temperature.AssemblyInfo.cs
+F:\Dropbox\Dropbox\SIT313\W4\Temperature\Temperature\Temperature\obj\Debug\netstandard2.0\XamlC.stamp
+F:\Dropbox\Dropbox\SIT313\W4\Temperature\Temperature\Temperature\obj\Debug\netstandard2.0\Temperature.dll
+F:\Dropbox\Dropbox\SIT313\W4\Temperature\Temperature\Temperature\obj\Debug\netstandard2.0\Temperature.pdb

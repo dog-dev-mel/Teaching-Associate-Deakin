@@ -1,0 +1,12 @@
+F:\Dropbox\Dropbox\SIT313\W4\ClickMe\ClickMe\ClickMe\bin\Debug\netstandard2.0\ClickMe.deps.json
+F:\Dropbox\Dropbox\SIT313\W4\ClickMe\ClickMe\ClickMe\bin\Debug\netstandard2.0\ClickMe.dll
+F:\Dropbox\Dropbox\SIT313\W4\ClickMe\ClickMe\ClickMe\bin\Debug\netstandard2.0\ClickMe.pdb
+F:\Dropbox\Dropbox\SIT313\W4\ClickMe\ClickMe\ClickMe\obj\Debug\netstandard2.0\ClickMe.csprojAssemblyReference.cache
+F:\Dropbox\Dropbox\SIT313\W4\ClickMe\ClickMe\ClickMe\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\Dropbox\Dropbox\SIT313\W4\ClickMe\ClickMe\ClickMe\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\Dropbox\Dropbox\SIT313\W4\ClickMe\ClickMe\ClickMe\obj\Debug\netstandard2.0\ClickMe.csproj.CoreCompileInputs.cache
+F:\Dropbox\Dropbox\SIT313\W4\ClickMe\ClickMe\ClickMe\obj\Debug\netstandard2.0\ClickMe.AssemblyInfoInputs.cache
+F:\Dropbox\Dropbox\SIT313\W4\ClickMe\ClickMe\ClickMe\obj\Debug\netstandard2.0\ClickMe.AssemblyInfo.cs
+F:\Dropbox\Dropbox\SIT313\W4\ClickMe\ClickMe\ClickMe\obj\Debug\netstandard2.0\XamlC.stamp
+F:\Dropbox\Dropbox\SIT313\W4\ClickMe\ClickMe\ClickMe\obj\Debug\netstandard2.0\ClickMe.dll
+F:\Dropbox\Dropbox\SIT313\W4\ClickMe\ClickMe\ClickMe\obj\Debug\netstandard2.0\ClickMe.pdb

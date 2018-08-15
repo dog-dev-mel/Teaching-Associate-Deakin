@@ -1,0 +1,40 @@
+using System;
+using System.Collections.Generic;
+using System.Diagnostics;
+using Xamarin.Forms;
+using Xamarin.Forms.Xaml;
+
+[assembly: XamlCompilation(XamlCompilationOptions.Compile)]
+namespace Phoneword
+{
+    public partial class App : Application
+    {
+        public static IList<string> PhoneNumbers { get; set; }
+        public App()
+        {
+            InitializeComponent();
+            PhoneNumbers = new List<string>();
+            MainPage = new NavigationPage(new MainPage());
+        }
+
+        protected override void OnStart()
+        {
+            // Handle when your app starts
+            Debug.WriteLine("XF.OnStart");
+        }
+
+        protected override void OnSleep()
+        {
+            // Handle when your app sleeps
+            Debug.WriteLine("XF.OnSleep");
+        }
+
+        protected override void OnResume()
+        {
+            // Handle when your app resumes
+            Debug.WriteLine("XF.OnResume");
+        }
+
+
+    }
+}

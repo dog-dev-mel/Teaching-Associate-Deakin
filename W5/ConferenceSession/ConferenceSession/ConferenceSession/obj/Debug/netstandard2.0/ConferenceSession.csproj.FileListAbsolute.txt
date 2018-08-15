@@ -1,0 +1,13 @@
+F:\Dropbox\Dropbox\SIT313\W5\ConferenceSession\ConferenceSession\ConferenceSession\bin\Debug\netstandard2.0\ConferenceSession.deps.json
+F:\Dropbox\Dropbox\SIT313\W5\ConferenceSession\ConferenceSession\ConferenceSession\bin\Debug\netstandard2.0\ConferenceSession.dll
+F:\Dropbox\Dropbox\SIT313\W5\ConferenceSession\ConferenceSession\ConferenceSession\obj\Debug\netstandard2.0\ConferenceSession.csprojAssemblyReference.cache
+F:\Dropbox\Dropbox\SIT313\W5\ConferenceSession\ConferenceSession\ConferenceSession\obj\Debug\netstandard2.0\ConferenceSession.csproj.CoreCompileInputs.cache
+F:\Dropbox\Dropbox\SIT313\W5\ConferenceSession\ConferenceSession\ConferenceSession\obj\Debug\netstandard2.0\ConferenceSession.AssemblyInfoInputs.cache
+F:\Dropbox\Dropbox\SIT313\W5\ConferenceSession\ConferenceSession\ConferenceSession\obj\Debug\netstandard2.0\ConferenceSession.AssemblyInfo.cs
+F:\Dropbox\Dropbox\SIT313\W5\ConferenceSession\ConferenceSession\ConferenceSession\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\Dropbox\Dropbox\SIT313\W5\ConferenceSession\ConferenceSession\ConferenceSession\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\Dropbox\Dropbox\SIT313\W5\ConferenceSession\ConferenceSession\ConferenceSession\obj\Debug\netstandard2.0\View\SessionDetailsPage.xaml.g.cs
+F:\Dropbox\Dropbox\SIT313\W5\ConferenceSession\ConferenceSession\ConferenceSession\bin\Debug\netstandard2.0\ConferenceSession.pdb
+F:\Dropbox\Dropbox\SIT313\W5\ConferenceSession\ConferenceSession\ConferenceSession\obj\Debug\netstandard2.0\XamlC.stamp
+F:\Dropbox\Dropbox\SIT313\W5\ConferenceSession\ConferenceSession\ConferenceSession\obj\Debug\netstandard2.0\ConferenceSession.dll
+F:\Dropbox\Dropbox\SIT313\W5\ConferenceSession\ConferenceSession\ConferenceSession\obj\Debug\netstandard2.0\ConferenceSession.pdb

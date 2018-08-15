@@ -1,0 +1,13 @@
+F:\Dropbox\Dropbox\SIT313\W4\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.deps.json
+F:\Dropbox\Dropbox\SIT313\W4\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.dll
+F:\Dropbox\Dropbox\SIT313\W4\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.pdb
+F:\Dropbox\Dropbox\SIT313\W4\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csprojAssemblyReference.cache
+F:\Dropbox\Dropbox\SIT313\W4\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\Dropbox\Dropbox\SIT313\W4\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\CallHistoryPage.xaml.g.cs
+F:\Dropbox\Dropbox\SIT313\W4\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\Dropbox\Dropbox\SIT313\W4\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csproj.CoreCompileInputs.cache
+F:\Dropbox\Dropbox\SIT313\W4\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfoInputs.cache
+F:\Dropbox\Dropbox\SIT313\W4\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfo.cs
+F:\Dropbox\Dropbox\SIT313\W4\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\XamlC.stamp
+F:\Dropbox\Dropbox\SIT313\W4\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.dll
+F:\Dropbox\Dropbox\SIT313\W4\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.pdb
