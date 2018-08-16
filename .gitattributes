@@ -1,5 +1,6 @@
 * linguist-vendored
 *.cs linguist-vendored=false
+*.cs linguist-language=C#
 
 *.cs diff=csharp
 *.csproj merge=union
