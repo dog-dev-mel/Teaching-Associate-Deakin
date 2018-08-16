@@ -351,11 +351,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Dropbox\\Dropbox\\SIT313\\W5\\ConferenceSession\\ConferenceSession\\ConferenceSession\\ConferenceSession.csproj",
+      "projectUniqueName": "E:\\Lab\\W5\\ConferenceSession\\ConferenceSession\\ConferenceSession\\ConferenceSession.csproj",
       "projectName": "ConferenceSession",
-      "projectPath": "F:\\Dropbox\\Dropbox\\SIT313\\W5\\ConferenceSession\\ConferenceSession\\ConferenceSession\\ConferenceSession.csproj",
+      "projectPath": "E:\\Lab\\W5\\ConferenceSession\\ConferenceSession\\ConferenceSession\\ConferenceSession.csproj",
       "packagesPath": "C:\\Users\\lzshi\\.nuget\\packages\\",
-      "outputPath": "F:\\Dropbox\\Dropbox\\SIT313\\W5\\ConferenceSession\\ConferenceSession\\ConferenceSession\\obj\\",
+      "outputPath": "E:\\Lab\\W5\\ConferenceSession\\ConferenceSession\\ConferenceSession\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -948,11 +948,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Dropbox\\Dropbox\\SIT313\\W5\\ConferenceSession\\ConferenceSession\\ConferenceSession.Android\\ConferenceSession.Android.csproj",
+      "projectUniqueName": "E:\\Lab\\W5\\ConferenceSession\\ConferenceSession\\ConferenceSession.Android\\ConferenceSession.Android.csproj",
       "projectName": "ConferenceSession.Android",
-      "projectPath": "F:\\Dropbox\\Dropbox\\SIT313\\W5\\ConferenceSession\\ConferenceSession\\ConferenceSession.Android\\ConferenceSession.Android.csproj",
+      "projectPath": "E:\\Lab\\W5\\ConferenceSession\\ConferenceSession\\ConferenceSession.Android\\ConferenceSession.Android.csproj",
       "packagesPath": "C:\\Users\\lzshi\\.nuget\\packages\\",
-      "outputPath": "F:\\Dropbox\\Dropbox\\SIT313\\W5\\ConferenceSession\\ConferenceSession\\ConferenceSession.Android\\obj\\",
+      "outputPath": "E:\\Lab\\W5\\ConferenceSession\\ConferenceSession\\ConferenceSession.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -969,8 +969,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "F:\\Dropbox\\Dropbox\\SIT313\\W5\\ConferenceSession\\ConferenceSession\\ConferenceSession\\ConferenceSession.csproj": {
-              "projectPath": "F:\\Dropbox\\Dropbox\\SIT313\\W5\\ConferenceSession\\ConferenceSession\\ConferenceSession\\ConferenceSession.csproj"
+            "E:\\Lab\\W5\\ConferenceSession\\ConferenceSession\\ConferenceSession\\ConferenceSession.csproj": {
+              "projectPath": "E:\\Lab\\W5\\ConferenceSession\\ConferenceSession\\ConferenceSession\\ConferenceSession.csproj"
             }
           }
         }

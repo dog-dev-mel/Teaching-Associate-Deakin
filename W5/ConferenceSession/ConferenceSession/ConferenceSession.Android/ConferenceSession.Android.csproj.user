@@ -3,5 +3,6 @@
   <PropertyGroup>
     <SelectedDevice>api23_marshmallow6_0_android_accelerated_x86</SelectedDevice>
     <DefaultDevice>api23_marshmallow6_0_android_accelerated_x86</DefaultDevice>
+    <AndroidDesignerPreferredTheme>Theme.DeviceDefault.NoActionBar.Fullscreen</AndroidDesignerPreferredTheme>
   </PropertyGroup>
 </Project>
