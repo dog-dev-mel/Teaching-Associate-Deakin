@@ -10,7 +10,7 @@ using ConferenceSession.Model;
 
 namespace ConferenceSession.View
 {
-	[XamlCompilation(XamlCompilationOptions.Compile)]
+
 	public partial class SessionDetailsPage : ContentPage
 	{
         public SessionDetailsViewModel ViewModel { get; }

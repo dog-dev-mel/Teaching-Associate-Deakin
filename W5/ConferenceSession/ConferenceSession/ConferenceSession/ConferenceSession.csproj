@@ -9,7 +9,13 @@
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Update="View\SessionsListPage.xaml">
+    <Compile Update="View\SessionListPage.xaml.cs">
+      <DependentUpon>SessionListPage.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="View\SessionListPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
   </ItemGroup>
