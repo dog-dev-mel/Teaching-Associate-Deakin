@@ -1,21 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local1="clr-namespace:ConferenceSession.View"
              x:Class="ConferenceSession.View.SessionDetailsPage"
-             xmlns:locall="clr-namespace:ConferenceSession;assembly=ConferenceSession"
-             xmlns:local="clr-namespace:ConferenceSession.View">
-
+             Title="Conference Session Details" BackgroundColor="BlueViolet" >
     <ContentPage.BindingContext>
-        <local:SessionDetailsViewModel />
+        <local1:SessionDetailsViewModel />
     </ContentPage.BindingContext>
 
-    <StackLayout>
-        <Label Text="Welcome to Week 5 Lab"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        <Label Text ="{Binding SessionTitle}" />
-        <Label Text ="{Binding SessionSpeaker}" />
-        <Label Text ="{Binding IsTechnical}" />
-        <Label Text ="{Binding SessionDescription}" />
+    <StackLayout Orientation="Vertical" BackgroundColor="SeaGreen" Spacing="0" Padding="10,2,0,0">
+        <StackLayout Padding="8,5,0,0">
+            <Label  Text="{Binding Session.SessionTitle, StringFormat='\The session title is: {0:N}'}" TextColor="Yellow" Font="22" VerticalOptions="StartAndExpand"></Label>
+            <Label  Text="{Binding Session.SessionSpeaker, StringFormat='The speaker name is: {0:N}'}" TextColor="Yellow" Font="22" VerticalOptions="StartAndExpand"></Label>
+            <Label  Text="{Binding Session.SessionDescription,StringFormat='His backgroud: {0:N}'}" TextColor="Yellow" Font="22" VerticalOptions="StartAndExpand"></Label>
+            <Label  Text="{Binding Session.IsTechnical, StringFormat='Is this a technical topic?  {0:N} '}" TextColor="BlanchedAlmond" Font="22" VerticalOptions="StartAndExpand"></Label>
+        </StackLayout>
     </StackLayout>
 </ContentPage>

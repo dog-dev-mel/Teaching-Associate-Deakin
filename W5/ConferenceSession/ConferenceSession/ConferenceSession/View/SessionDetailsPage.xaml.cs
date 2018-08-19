@@ -6,15 +6,22 @@ using System.Threading.Tasks;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using ConferenceSession.Model;
 
 namespace ConferenceSession.View
 {
-	[XamlCompilation(XamlCompilationOptions.Compile)]
+
 	public partial class SessionDetailsPage : ContentPage
 	{
-		public SessionDetailsPage ()
-		{
-			InitializeComponent ();
-		}
+        public SessionDetailsViewModel ViewModel { get; }
+        public SessionDetailsPage(Session session)
+        {
+
+            InitializeComponent();
+
+            BindingContext = ViewModel = new SessionDetailsViewModel(); ;
+
+            ViewModel.SetData(session);
+        }
 	}
 }

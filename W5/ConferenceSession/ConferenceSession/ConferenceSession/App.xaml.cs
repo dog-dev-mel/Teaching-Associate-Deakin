@@ -12,7 +12,7 @@ namespace ConferenceSession
         {
             InitializeComponent();
 
-            MainPage = new SessionDetailsPage();
+            MainPage = new NavigationPage( new SessionListPage());
         }
 
         protected override void OnStart()
