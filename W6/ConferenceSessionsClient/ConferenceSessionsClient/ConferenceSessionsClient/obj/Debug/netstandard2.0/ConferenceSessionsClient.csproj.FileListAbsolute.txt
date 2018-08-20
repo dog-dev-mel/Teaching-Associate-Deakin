@@ -1,0 +1,12 @@
+D:\Lab\W6\ConferenceSessionsClient\ConferenceSessionsClient\ConferenceSessionsClient\bin\Debug\netstandard2.0\ConferenceSessionsClient.deps.json
+D:\Lab\W6\ConferenceSessionsClient\ConferenceSessionsClient\ConferenceSessionsClient\bin\Debug\netstandard2.0\ConferenceSessionsClient.dll
+D:\Lab\W6\ConferenceSessionsClient\ConferenceSessionsClient\ConferenceSessionsClient\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Lab\W6\ConferenceSessionsClient\ConferenceSessionsClient\ConferenceSessionsClient\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Lab\W6\ConferenceSessionsClient\ConferenceSessionsClient\ConferenceSessionsClient\obj\Debug\netstandard2.0\ConferenceSessionsClient.csproj.CoreCompileInputs.cache
+D:\Lab\W6\ConferenceSessionsClient\ConferenceSessionsClient\ConferenceSessionsClient\obj\Debug\netstandard2.0\ConferenceSessionsClient.AssemblyInfoInputs.cache
+D:\Lab\W6\ConferenceSessionsClient\ConferenceSessionsClient\ConferenceSessionsClient\obj\Debug\netstandard2.0\ConferenceSessionsClient.AssemblyInfo.cs
+D:\Lab\W6\ConferenceSessionsClient\ConferenceSessionsClient\ConferenceSessionsClient\bin\Debug\netstandard2.0\ConferenceSessionsClient.pdb
+D:\Lab\W6\ConferenceSessionsClient\ConferenceSessionsClient\ConferenceSessionsClient\obj\Debug\netstandard2.0\View\SessionsPage.xaml.g.cs
+D:\Lab\W6\ConferenceSessionsClient\ConferenceSessionsClient\ConferenceSessionsClient\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Lab\W6\ConferenceSessionsClient\ConferenceSessionsClient\ConferenceSessionsClient\obj\Debug\netstandard2.0\ConferenceSessionsClient.dll
+D:\Lab\W6\ConferenceSessionsClient\ConferenceSessionsClient\ConferenceSessionsClient\obj\Debug\netstandard2.0\ConferenceSessionsClient.pdb
