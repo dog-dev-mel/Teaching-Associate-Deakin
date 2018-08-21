@@ -129,7 +129,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Forms": "3.0.0.561731"
+          "Xamarin.Forms": "3.1.0.697729"
         },
         "compile": {
           "bin/placeholder/Temperature.dll": {}
@@ -267,7 +267,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Forms": "3.0.0.561731"
+          "Xamarin.Forms": "3.1.0.697729"
         },
         "compile": {
           "bin/placeholder/Temperature.dll": {}
@@ -405,7 +405,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Forms": "3.0.0.561731"
+          "Xamarin.Forms": "3.1.0.697729"
         },
         "compile": {
           "bin/placeholder/Temperature.dll": {}
@@ -543,7 +543,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Forms": "3.0.0.561731"
+          "Xamarin.Forms": "3.1.0.697729"
         },
         "compile": {
           "bin/placeholder/Temperature.dll": {}
@@ -724,11 +724,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Dropbox\\Dropbox\\SIT313\\W4\\Temperature\\Temperature\\Temperature.iOS\\Temperature.iOS.csproj",
+      "projectUniqueName": "E:\\Lab\\W4\\Temperature\\Temperature\\Temperature.iOS\\Temperature.iOS.csproj",
       "projectName": "Temperature.iOS",
-      "projectPath": "F:\\Dropbox\\Dropbox\\SIT313\\W4\\Temperature\\Temperature\\Temperature.iOS\\Temperature.iOS.csproj",
+      "projectPath": "E:\\Lab\\W4\\Temperature\\Temperature\\Temperature.iOS\\Temperature.iOS.csproj",
       "packagesPath": "C:\\Users\\lzshi\\.nuget\\packages\\",
-      "outputPath": "F:\\Dropbox\\Dropbox\\SIT313\\W4\\Temperature\\Temperature\\Temperature.iOS\\obj\\",
+      "outputPath": "E:\\Lab\\W4\\Temperature\\Temperature\\Temperature.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -745,8 +745,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "F:\\Dropbox\\Dropbox\\SIT313\\W4\\Temperature\\Temperature\\Temperature\\Temperature.csproj": {
-              "projectPath": "F:\\Dropbox\\Dropbox\\SIT313\\W4\\Temperature\\Temperature\\Temperature\\Temperature.csproj"
+            "E:\\Lab\\W4\\Temperature\\Temperature\\Temperature\\Temperature.csproj": {
+              "projectPath": "E:\\Lab\\W4\\Temperature\\Temperature\\Temperature\\Temperature.csproj"
             }
           }
         }
