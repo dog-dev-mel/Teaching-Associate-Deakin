@@ -6,3 +6,6 @@ git pull = git fetch + git merge
 git push: update the latest branch/commit to the remote
 
 http://www.ruanyifeng.com/blog/2014/06/git_remote.html
+
+git config --system core.longpaths true
+
