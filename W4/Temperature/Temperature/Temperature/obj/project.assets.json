@@ -351,11 +351,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Dropbox\\Dropbox\\SIT313\\W4\\Temperature\\Temperature\\Temperature\\Temperature.csproj",
+      "projectUniqueName": "E:\\Lab\\W4\\Temperature\\Temperature\\Temperature\\Temperature.csproj",
       "projectName": "Temperature",
-      "projectPath": "F:\\Dropbox\\Dropbox\\SIT313\\W4\\Temperature\\Temperature\\Temperature\\Temperature.csproj",
+      "projectPath": "E:\\Lab\\W4\\Temperature\\Temperature\\Temperature\\Temperature.csproj",
       "packagesPath": "C:\\Users\\lzshi\\.nuget\\packages\\",
-      "outputPath": "F:\\Dropbox\\Dropbox\\SIT313\\W4\\Temperature\\Temperature\\Temperature\\obj\\",
+      "outputPath": "E:\\Lab\\W4\\Temperature\\Temperature\\Temperature\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

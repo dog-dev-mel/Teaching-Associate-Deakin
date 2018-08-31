@@ -786,11 +786,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Dropbox\\Dropbox\\SIT313\\W4\\Temperature\\Temperature\\Temperature.Android\\Temperature.Android.csproj",
+      "projectUniqueName": "E:\\Lab\\W4\\Temperature\\Temperature\\Temperature.Android\\Temperature.Android.csproj",
       "projectName": "Temperature.Android",
-      "projectPath": "F:\\Dropbox\\Dropbox\\SIT313\\W4\\Temperature\\Temperature\\Temperature.Android\\Temperature.Android.csproj",
+      "projectPath": "E:\\Lab\\W4\\Temperature\\Temperature\\Temperature.Android\\Temperature.Android.csproj",
       "packagesPath": "C:\\Users\\lzshi\\.nuget\\packages\\",
-      "outputPath": "F:\\Dropbox\\Dropbox\\SIT313\\W4\\Temperature\\Temperature\\Temperature.Android\\obj\\",
+      "outputPath": "E:\\Lab\\W4\\Temperature\\Temperature\\Temperature.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -807,8 +807,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "F:\\Dropbox\\Dropbox\\SIT313\\W4\\Temperature\\Temperature\\Temperature\\Temperature.csproj": {
-              "projectPath": "F:\\Dropbox\\Dropbox\\SIT313\\W4\\Temperature\\Temperature\\Temperature\\Temperature.csproj"
+            "E:\\Lab\\W4\\Temperature\\Temperature\\Temperature\\Temperature.csproj": {
+              "projectPath": "E:\\Lab\\W4\\Temperature\\Temperature\\Temperature\\Temperature.csproj"
             }
           }
         }
