@@ -1,0 +1,13 @@
+D:\Lab\W7\CFSessionDB\CFSessionDB\CFSessionDB\bin\Debug\netstandard2.0\CFSessionDB.deps.json
+D:\Lab\W7\CFSessionDB\CFSessionDB\CFSessionDB\bin\Debug\netstandard2.0\CFSessionDB.dll
+D:\Lab\W7\CFSessionDB\CFSessionDB\CFSessionDB\obj\Debug\netstandard2.0\CFSessionDB.csprojAssemblyReference.cache
+D:\Lab\W7\CFSessionDB\CFSessionDB\CFSessionDB\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Lab\W7\CFSessionDB\CFSessionDB\CFSessionDB\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Lab\W7\CFSessionDB\CFSessionDB\CFSessionDB\obj\Debug\netstandard2.0\CFSessionDB.csproj.CoreCompileInputs.cache
+D:\Lab\W7\CFSessionDB\CFSessionDB\CFSessionDB\obj\Debug\netstandard2.0\CFSessionDB.AssemblyInfoInputs.cache
+D:\Lab\W7\CFSessionDB\CFSessionDB\CFSessionDB\obj\Debug\netstandard2.0\CFSessionDB.AssemblyInfo.cs
+D:\Lab\W7\CFSessionDB\CFSessionDB\CFSessionDB\bin\Debug\netstandard2.0\CFSessionDB.pdb
+D:\Lab\W7\CFSessionDB\CFSessionDB\CFSessionDB\obj\Debug\netstandard2.0\View\SessionListPage.xaml.g.cs
+D:\Lab\W7\CFSessionDB\CFSessionDB\CFSessionDB\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Lab\W7\CFSessionDB\CFSessionDB\CFSessionDB\obj\Debug\netstandard2.0\CFSessionDB.dll
+D:\Lab\W7\CFSessionDB\CFSessionDB\CFSessionDB\obj\Debug\netstandard2.0\CFSessionDB.pdb
