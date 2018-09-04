@@ -11,3 +11,16 @@ D:\Lab\W7\CFSessionDB\CFSessionDB\CFSessionDB\obj\Debug\netstandard2.0\View\Sess
 D:\Lab\W7\CFSessionDB\CFSessionDB\CFSessionDB\obj\Debug\netstandard2.0\XamlC.stamp
 D:\Lab\W7\CFSessionDB\CFSessionDB\CFSessionDB\obj\Debug\netstandard2.0\CFSessionDB.dll
 D:\Lab\W7\CFSessionDB\CFSessionDB\CFSessionDB\obj\Debug\netstandard2.0\CFSessionDB.pdb
+E:\Xamarin\W7\CFSessionDB\CFSessionDB\CFSessionDB\bin\Debug\netstandard2.0\CFSessionDB.deps.json
+E:\Xamarin\W7\CFSessionDB\CFSessionDB\CFSessionDB\bin\Debug\netstandard2.0\CFSessionDB.dll
+E:\Xamarin\W7\CFSessionDB\CFSessionDB\CFSessionDB\bin\Debug\netstandard2.0\CFSessionDB.pdb
+E:\Xamarin\W7\CFSessionDB\CFSessionDB\CFSessionDB\obj\Debug\netstandard2.0\CFSessionDB.csprojAssemblyReference.cache
+E:\Xamarin\W7\CFSessionDB\CFSessionDB\CFSessionDB\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Xamarin\W7\CFSessionDB\CFSessionDB\CFSessionDB\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Xamarin\W7\CFSessionDB\CFSessionDB\CFSessionDB\obj\Debug\netstandard2.0\View\SessionListPage.xaml.g.cs
+E:\Xamarin\W7\CFSessionDB\CFSessionDB\CFSessionDB\obj\Debug\netstandard2.0\CFSessionDB.csproj.CoreCompileInputs.cache
+E:\Xamarin\W7\CFSessionDB\CFSessionDB\CFSessionDB\obj\Debug\netstandard2.0\CFSessionDB.AssemblyInfoInputs.cache
+E:\Xamarin\W7\CFSessionDB\CFSessionDB\CFSessionDB\obj\Debug\netstandard2.0\CFSessionDB.AssemblyInfo.cs
+E:\Xamarin\W7\CFSessionDB\CFSessionDB\CFSessionDB\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Xamarin\W7\CFSessionDB\CFSessionDB\CFSessionDB\obj\Debug\netstandard2.0\CFSessionDB.dll
+E:\Xamarin\W7\CFSessionDB\CFSessionDB\CFSessionDB\obj\Debug\netstandard2.0\CFSessionDB.pdb

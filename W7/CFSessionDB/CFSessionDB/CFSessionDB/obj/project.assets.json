@@ -513,11 +513,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Lab\\W7\\CFSessionDB\\CFSessionDB\\CFSessionDB\\CFSessionDB.csproj",
+      "projectUniqueName": "E:\\Xamarin\\W7\\CFSessionDB\\CFSessionDB\\CFSessionDB\\CFSessionDB.csproj",
       "projectName": "CFSessionDB",
-      "projectPath": "D:\\Lab\\W7\\CFSessionDB\\CFSessionDB\\CFSessionDB\\CFSessionDB.csproj",
+      "projectPath": "E:\\Xamarin\\W7\\CFSessionDB\\CFSessionDB\\CFSessionDB\\CFSessionDB.csproj",
       "packagesPath": "C:\\Users\\lzshi\\.nuget\\packages\\",
-      "outputPath": "D:\\Lab\\W7\\CFSessionDB\\CFSessionDB\\CFSessionDB\\obj\\",
+      "outputPath": "E:\\Xamarin\\W7\\CFSessionDB\\CFSessionDB\\CFSessionDB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

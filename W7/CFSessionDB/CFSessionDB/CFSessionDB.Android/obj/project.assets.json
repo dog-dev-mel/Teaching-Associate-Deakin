@@ -987,11 +987,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Lab\\W7\\CFSessionDB\\CFSessionDB\\CFSessionDB.Android\\CFSessionDB.Android.csproj",
+      "projectUniqueName": "E:\\Xamarin\\W7\\CFSessionDB\\CFSessionDB\\CFSessionDB.Android\\CFSessionDB.Android.csproj",
       "projectName": "CFSessionDB.Android",
-      "projectPath": "D:\\Lab\\W7\\CFSessionDB\\CFSessionDB\\CFSessionDB.Android\\CFSessionDB.Android.csproj",
+      "projectPath": "E:\\Xamarin\\W7\\CFSessionDB\\CFSessionDB\\CFSessionDB.Android\\CFSessionDB.Android.csproj",
       "packagesPath": "C:\\Users\\lzshi\\.nuget\\packages\\",
-      "outputPath": "D:\\Lab\\W7\\CFSessionDB\\CFSessionDB\\CFSessionDB.Android\\obj\\",
+      "outputPath": "E:\\Xamarin\\W7\\CFSessionDB\\CFSessionDB\\CFSessionDB.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1008,8 +1008,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "D:\\Lab\\W7\\CFSessionDB\\CFSessionDB\\CFSessionDB\\CFSessionDB.csproj": {
-              "projectPath": "D:\\Lab\\W7\\CFSessionDB\\CFSessionDB\\CFSessionDB\\CFSessionDB.csproj"
+            "E:\\Xamarin\\W7\\CFSessionDB\\CFSessionDB\\CFSessionDB\\CFSessionDB.csproj": {
+              "projectPath": "E:\\Xamarin\\W7\\CFSessionDB\\CFSessionDB\\CFSessionDB\\CFSessionDB.csproj"
             }
           }
         }
