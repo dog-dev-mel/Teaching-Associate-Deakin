@@ -102,6 +102,7 @@ E:\Xamarin\W7\CFSessionDB\CFSessionDB\CFSessionDB.Android\obj\Debug\MonoAndroid8
 E:\Xamarin\W7\CFSessionDB\CFSessionDB\CFSessionDB.Android\obj\Debug\MonoAndroid81\android\assets\System.Xml.pdb
 E:\Xamarin\W7\CFSessionDB\CFSessionDB\CFSessionDB.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Core.pdb
 E:\Xamarin\W7\CFSessionDB\CFSessionDB\CFSessionDB.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Xaml.pdb
+E:\Xamarin\W7\CFSessionDB\CFSessionDB\CFSessionDB\bin\Debug\netstandard2.0\CFSessionDB.dll
 E:\Xamarin\W7\CFSessionDB\CFSessionDB\CFSessionDB.Android\obj\Debug\MonoAndroid81\linksrc\CFSessionDB.Android.pdb
 E:\Xamarin\W7\CFSessionDB\CFSessionDB\CFSessionDB.Android\obj\Debug\MonoAndroid81\linksrc\mscorlib.pdb
 E:\Xamarin\W7\CFSessionDB\CFSessionDB\CFSessionDB.Android\obj\Debug\MonoAndroid81\linksrc\System.Core.pdb
@@ -119,6 +120,7 @@ E:\Xamarin\W7\CFSessionDB\CFSessionDB\CFSessionDB.Android\obj\Debug\MonoAndroid8
 E:\Xamarin\W7\CFSessionDB\CFSessionDB\CFSessionDB.Android\obj\Debug\MonoAndroid81\linksrc\System.ServiceModel.Internals.pdb
 E:\Xamarin\W7\CFSessionDB\CFSessionDB\CFSessionDB.Android\obj\Debug\MonoAndroid81\linksrc\System.Web.Services.pdb
 E:\Xamarin\W7\CFSessionDB\CFSessionDB\CFSessionDB.Android\obj\Debug\MonoAndroid81\linksrc\Mono.Security.pdb
+E:\Xamarin\W7\CFSessionDB\CFSessionDB\CFSessionDB.Android\bin\Debug\CFSessionDB.dll.mdb
 E:\Xamarin\W7\CFSessionDB\CFSessionDB\CFSessionDB.Android\obj\Debug\MonoAndroid81\linksrc\CFSessionDB.dll.mdb
 E:\Xamarin\W7\CFSessionDB\CFSessionDB\CFSessionDB.Android\obj\Debug\MonoAndroid81\linksrc\FormsViewGroup.dll.mdb
 E:\Xamarin\W7\CFSessionDB\CFSessionDB\CFSessionDB.Android\obj\Debug\MonoAndroid81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
