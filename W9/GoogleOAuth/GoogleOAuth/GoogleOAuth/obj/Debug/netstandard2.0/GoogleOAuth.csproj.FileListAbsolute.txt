@@ -1,0 +1,12 @@
+E:\Xamarin\W9\GoogleOAuth\GoogleOAuth\GoogleOAuth\bin\Debug\netstandard2.0\GoogleOAuth.deps.json
+E:\Xamarin\W9\GoogleOAuth\GoogleOAuth\GoogleOAuth\bin\Debug\netstandard2.0\GoogleOAuth.dll
+E:\Xamarin\W9\GoogleOAuth\GoogleOAuth\GoogleOAuth\bin\Debug\netstandard2.0\GoogleOAuth.pdb
+E:\Xamarin\W9\GoogleOAuth\GoogleOAuth\GoogleOAuth\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Xamarin\W9\GoogleOAuth\GoogleOAuth\GoogleOAuth\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Xamarin\W9\GoogleOAuth\GoogleOAuth\GoogleOAuth\obj\Debug\netstandard2.0\GoogleOAuth.csproj.CoreCompileInputs.cache
+E:\Xamarin\W9\GoogleOAuth\GoogleOAuth\GoogleOAuth\obj\Debug\netstandard2.0\GoogleOAuth.AssemblyInfoInputs.cache
+E:\Xamarin\W9\GoogleOAuth\GoogleOAuth\GoogleOAuth\obj\Debug\netstandard2.0\GoogleOAuth.AssemblyInfo.cs
+E:\Xamarin\W9\GoogleOAuth\GoogleOAuth\GoogleOAuth\obj\Debug\netstandard2.0\GoogleOAuth.dll
+E:\Xamarin\W9\GoogleOAuth\GoogleOAuth\GoogleOAuth\obj\Debug\netstandard2.0\GoogleOAuth.pdb
+E:\Xamarin\W9\GoogleOAuth\GoogleOAuth\GoogleOAuth\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Xamarin\W9\GoogleOAuth\GoogleOAuth\GoogleOAuth\obj\Debug\netstandard2.0\GoogleOAuth.csprojAssemblyReference.cache
