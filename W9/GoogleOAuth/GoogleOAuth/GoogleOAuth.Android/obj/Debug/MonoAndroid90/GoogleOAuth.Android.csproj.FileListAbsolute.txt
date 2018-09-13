@@ -1,3 +1,0 @@
-E:\Xamarin\W9\GoogleOAuth\GoogleOAuth\GoogleOAuth.Android\obj\Debug\MonoAndroid90\GoogleOAuth.Android.csprojAssemblyReference.cache
-E:\Xamarin\W9\GoogleOAuth\GoogleOAuth\GoogleOAuth.Android\obj\Debug\MonoAndroid90\res.flag
-E:\Xamarin\W9\GoogleOAuth\GoogleOAuth\GoogleOAuth.Android\obj\Debug\MonoAndroid90\GoogleOAuth.Android.csproj.CoreCompileInputs.cache
