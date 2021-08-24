@@ -1,0 +1,12 @@
+F:\W9OAuthLab\W9OAuthLab\W9OAuthLab\bin\Debug\netstandard2.0\W9OAuthLab.deps.json
+F:\W9OAuthLab\W9OAuthLab\W9OAuthLab\bin\Debug\netstandard2.0\W9OAuthLab.dll
+F:\W9OAuthLab\W9OAuthLab\W9OAuthLab\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\W9OAuthLab\W9OAuthLab\W9OAuthLab\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\W9OAuthLab\W9OAuthLab\W9OAuthLab\obj\Debug\netstandard2.0\W9OAuthLab.csproj.CoreCompileInputs.cache
+F:\W9OAuthLab\W9OAuthLab\W9OAuthLab\obj\Debug\netstandard2.0\W9OAuthLab.AssemblyInfoInputs.cache
+F:\W9OAuthLab\W9OAuthLab\W9OAuthLab\obj\Debug\netstandard2.0\W9OAuthLab.AssemblyInfo.cs
+F:\W9OAuthLab\W9OAuthLab\W9OAuthLab\obj\Debug\netstandard2.0\OAUthLoginPage.xaml.g.cs
+F:\W9OAuthLab\W9OAuthLab\W9OAuthLab\bin\Debug\netstandard2.0\W9OAuthLab.pdb
+F:\W9OAuthLab\W9OAuthLab\W9OAuthLab\obj\Debug\netstandard2.0\XamlC.stamp
+F:\W9OAuthLab\W9OAuthLab\W9OAuthLab\obj\Debug\netstandard2.0\W9OAuthLab.dll
+F:\W9OAuthLab\W9OAuthLab\W9OAuthLab\obj\Debug\netstandard2.0\W9OAuthLab.pdb

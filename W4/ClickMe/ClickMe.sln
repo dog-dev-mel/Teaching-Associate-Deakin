@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClickMe.Android", "ClickMe\ClickMe.Android\ClickMe.Android.csproj", "{0B90BE60-64D6-426D-9C20-0E4050B60F4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClickMe", "ClickMe\ClickMe\ClickMe.csproj", "{AE34D6A0-25A2-4F17-8674-11BBA5891CC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B90BE60-64D6-426D-9C20-0E4050B60F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B90BE60-64D6-426D-9C20-0E4050B60F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B90BE60-64D6-426D-9C20-0E4050B60F4B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0B90BE60-64D6-426D-9C20-0E4050B60F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B90BE60-64D6-426D-9C20-0E4050B60F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B90BE60-64D6-426D-9C20-0E4050B60F4B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{AE34D6A0-25A2-4F17-8674-11BBA5891CC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE34D6A0-25A2-4F17-8674-11BBA5891CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE34D6A0-25A2-4F17-8674-11BBA5891CC3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AE34D6A0-25A2-4F17-8674-11BBA5891CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE34D6A0-25A2-4F17-8674-11BBA5891CC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE34D6A0-25A2-4F17-8674-11BBA5891CC3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DBB1D97-2169-4677-8D99-AC6FA00CCEB9}
+	EndGlobalSection
+EndGlobal

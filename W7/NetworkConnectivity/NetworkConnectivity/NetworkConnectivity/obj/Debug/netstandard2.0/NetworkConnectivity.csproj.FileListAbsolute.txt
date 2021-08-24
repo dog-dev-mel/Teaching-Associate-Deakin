@@ -1,0 +1,13 @@
+D:\Lab\W7\NetworkConnectivity\NetworkConnectivity\NetworkConnectivity\bin\Debug\netstandard2.0\NetworkConnectivity.deps.json
+D:\Lab\W7\NetworkConnectivity\NetworkConnectivity\NetworkConnectivity\bin\Debug\netstandard2.0\NetworkConnectivity.dll
+D:\Lab\W7\NetworkConnectivity\NetworkConnectivity\NetworkConnectivity\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Lab\W7\NetworkConnectivity\NetworkConnectivity\NetworkConnectivity\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Lab\W7\NetworkConnectivity\NetworkConnectivity\NetworkConnectivity\obj\Debug\netstandard2.0\View\TestConnectivityPage.xaml.g.cs
+D:\Lab\W7\NetworkConnectivity\NetworkConnectivity\NetworkConnectivity\obj\Debug\netstandard2.0\NetworkConnectivity.csproj.CoreCompileInputs.cache
+D:\Lab\W7\NetworkConnectivity\NetworkConnectivity\NetworkConnectivity\obj\Debug\netstandard2.0\NetworkConnectivity.AssemblyInfoInputs.cache
+D:\Lab\W7\NetworkConnectivity\NetworkConnectivity\NetworkConnectivity\obj\Debug\netstandard2.0\NetworkConnectivity.AssemblyInfo.cs
+D:\Lab\W7\NetworkConnectivity\NetworkConnectivity\NetworkConnectivity\bin\Debug\netstandard2.0\NetworkConnectivity.pdb
+D:\Lab\W7\NetworkConnectivity\NetworkConnectivity\NetworkConnectivity\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Lab\W7\NetworkConnectivity\NetworkConnectivity\NetworkConnectivity\obj\Debug\netstandard2.0\NetworkConnectivity.dll
+D:\Lab\W7\NetworkConnectivity\NetworkConnectivity\NetworkConnectivity\obj\Debug\netstandard2.0\NetworkConnectivity.pdb
+D:\Lab\W7\NetworkConnectivity\NetworkConnectivity\NetworkConnectivity\obj\Debug\netstandard2.0\NetworkConnectivity.csprojAssemblyReference.cache

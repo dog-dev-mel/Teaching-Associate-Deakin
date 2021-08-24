@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:CalculatorApp"
+             x:Class="CalculatorApp.MainPage">
+
+    <StackLayout Orientation="Vertical">
+        <Entry x:Name="txtX" AutomationId="vaule1" />
+        <Entry x:Name="txtY" AutomationId="vaule2" />
+        <Button Text="+" x:Name="btnAdd" Clicked="ButtonClicked" AutomationId="btnAdd" />
+        <Button Text="-" x:Name="btnSubtract" Clicked="ButtonClicked" AutomationId="btnSubtract" />
+        <Button Text="*" x:Name="btnMultiply" Clicked="ButtonClicked" AutomationId="btnMultiply" />
+        <Button Text="/" x:Name="btnDivide" Clicked="ButtonClicked" AutomationId="btnDivide" />
+        <Label x:Name="lblResult" AutomationId="vaule3" />
+    </StackLayout>
+
+</ContentPage>
