@@ -1,7 +1,0 @@
-* linguist-vendored
-*.cs linguist-vendored=false
-*.cs linguist-language=C#
-*.cs diff=csharp
-*.csproj merge=union
-*.sln merge=union
-xamarin-forms-book-samples-master.zip filter=lfs diff=lfs merge=lfs -text
