@@ -1,8 +1,0 @@
-git fetch: get the new version/commit/branch from the remote/github server
-git pull:   get the one branch from the remote, then merge it within the local designed branch.
-
-git pull = git fetch + git merge
-
-git push: update the latest branch/commit to the remote
-
-http://www.ruanyifeng.com/blog/2014/06/git_remote.html
